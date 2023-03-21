@@ -1,3 +1,7 @@
 <project name="gitclass" basedir="." deafult="">
 
+<target name="first">
+
+</target>
+
 </project>
